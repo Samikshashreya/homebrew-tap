@@ -1,7 +1,7 @@
 class Trail < Formula
     desc "Your git for debugging - Track, share, and resolve coding issues"
     homepage "https://github.com/Samikshashreya/trail"
-    url "https://github.com/Samikshashreya/trail/archive/refs/tags/v1.0.0.tar.gz"
+    url "https://github.com/Samikshashreya/trail/blob/main/packages/trail-cli/trail-1.0.0.tar.gz"
     sha256 "30cd8b5bd96046590d9c717fb0ea7505d02deef57ddd80ab0820a53e3d405d3f"
     license "MIT"
   
